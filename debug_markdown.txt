@@ -1,0 +1,491 @@
+Search
+
+Clear search
+
+Close search
+
+Main menu
+
+Google apps
+
+[Google](https://datasetsearch.research.google.com/)
+
+[Google](https://datasetsearch.research.google.com/)
+
+Help
+
+Feedback
+
+[Google apps](https://www.google.com/intl/en/about/products)
+
+[Sign in](https://accounts.google.com/ServiceLogin?passive=1209600&continue=https://datasetsearch.research.google.com/search?query%3Diot&followup=https://datasetsearch.research.google.com/search?query%3Diot&ec=GAZAwgM)
+
+Saved datasets
+
+_arrow\_drop\_down_ Last updated
+
+_arrow\_drop\_down_ Download format
+
+Croissant
+
+Croissant is a format for Machine Learning datasets
+
+Learn more about this at [mlcommons.org/croissant](https://mlcommons.org/croissant).
+
+_arrow\_drop\_down_ Usage rights
+
+License from data provider
+
+Please review the applicable license to make sure your contemplated use is permitted.
+
+_arrow\_drop\_down_ Topic
+
+_arrow\_drop\_down_ Provider
+
+Free
+
+Cost to access
+
+Described as free to access or have a license that allows redistribution.
+
+100+ datasets found
+
+01. i
+
+
+
+
+
+
+
+    # The Bot-IoT dataset
+
+
+
+
+
+    - ieee-dataport.org
+
+Updated Oct 27, 2022
+
+02. ![](https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRgJBTGRZH8uzVYz3CitYwTr1idTtYY2V_gsZjAHR2gC0F2qKzM)
+
+
+
+
+
+    # Ton-IoT
+
+
+
+
+
+    - kaggle.com
+
+zip
+
+Updated Jul 17, 2023
+
+03. ![](https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRgJBTGRZH8uzVYz3CitYwTr1idTtYY2V_gsZjAHR2gC0F2qKzM)
+
+
+
+
+
+    # Cyber Attacks on Real-Time Internet of Things
+
+
+
+
+
+    - kaggle.com
+
+zip
+
+Updated Jan 17, 2024
+
+04. ![](https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRgJBTGRZH8uzVYz3CitYwTr1idTtYY2V_gsZjAHR2gC0F2qKzM)
+
+
+
+
+
+    # Industrial IoT Dataset (Synthetic)
+
+
+
+
+
+    - kaggle.com
+
+zip
+
+Updated May 2, 2025
+
+05. i
+
+
+
+
+
+
+
+    # Edge-IIoTset: A New Comprehensive Realistic Cyber Security Dataset of IoT...
+
+
+
+
+
+    - ieee-dataport.org
+
+Updated Feb 11, 2026
+
+06. Z
+
+
+
+
+
+
+
+    # Data from: IoT-23: A labeled dataset with malicious and benign IoT network...
+
+
+
+
+
+    - data.niaid.nih.gov
+    - zenodo.org
+
+Updated Sep 3, 2021
+
+07. ![](https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQwqrcWCN1QEQlzEDbM4BJUKvEtFQZjvyCoJ6f0Stq8rvjL6Mxq)
+
+
+
+
+
+    # Deakin IoT Traffic Dataset
+
+
+
+
+
+    - dro.deakin.edu.au
+    - researchdata.edu.au
+
+pcap
+
+Updated Jun 21, 2025
+
+08. ![](https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRgJBTGRZH8uzVYz3CitYwTr1idTtYY2V_gsZjAHR2gC0F2qKzM)
+
+
+
+
+
+    # BoT-IoT 5% data
+
+
+
+
+
+    - kaggle.com
+
+zip
+
+Updated Mar 12, 2023
+
+09. i
+
+
+
+
+
+
+
+    # MQTT-IoT-IDS2020: MQTT Internet of Things Intrusion Detection Dataset
+
+
+
+
+
+    - ieee-dataport.org
+
+10. h
+
+
+
+
+
+
+
+    # TON\_IoT\_network
+
+
+
+
+
+    - huggingface.co
+    - kaggle.com
+
+Updated May 4, 2019
+
+11. h
+
+
+
+
+
+
+
+    # iot
+
+
+
+
+
+    - huggingface.co
+
+Updated Aug 28, 2025
+
+\+ more versions
+
+12. R
+
+
+
+
+
+
+
+    # Iot\_dataset Dataset
+
+
+
+
+
+    - universe.roboflow.com
+
+zip
+
+Updated Oct 20, 2024
+
+\+ more versions
+
+13. ![](https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRgJBTGRZH8uzVYz3CitYwTr1idTtYY2V_gsZjAHR2gC0F2qKzM)
+
+
+
+
+
+    # CIC IoT Dataset 2023
+
+
+
+
+
+    - kaggle.com
+
+zip
+
+Updated Jul 13, 2023
+
+\+ more versions
+
+14. ![](https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQMFoj0uID2Il-CauN1sCByn11FnkNgKOPbGSfR7p-mhGhvakON)
+
+
+
+
+
+    # IoTS\_Dataset: QoS data about IoT services
+
+
+
+
+
+    - zenodo.org
+
+zip
+
+Updated Jan 10, 2024
+
+15. R
+
+
+
+
+
+
+
+    # Projet Iot Dataset
+
+
+
+
+
+    - universe.roboflow.com
+
+zip
+
+Updated Apr 12, 2024
+
+\+ more versions
+
+16. h
+
+
+
+
+
+
+
+    # IoT-based-SmartParkingSystem-dataset
+
+
+
+
+
+    - huggingface.co
+
+\+ more versions
+
+17. h
+
+
+
+
+
+
+
+    # iot-23-preprocessed-minimumcolumns
+
+
+
+
+
+    - huggingface.co
+
+Updated Jan 10, 2024
+
+\+ more versions
+
+18. i
+
+
+
+
+
+
+
+    # ACI IoT Network Traffic Dataset 2023
+
+
+
+
+
+    - ieee-dataport.org
+    - kaggle.com
+
+Updated Oct 4, 2025
+
+\+ more versions
+
+19. c
+
+
+
+
+
+
+
+    # IoT for Fisheries and Aquaculture market size was $486.19 Million in 2022!
+
+
+
+
+
+    - cognitivemarketresearch.com
+
+pdf,excel,csv,ppt
+
+Updated Dec 30, 2025
+
+20. R
+
+
+
+
+
+
+
+    # Cp Iot Dataset
+
+
+
+
+
+    - universe.roboflow.com
+
+zip
+
+Updated Oct 28, 2025
+
+Share
+
+![](https://www.gstatic.com/images/icons/material/system/1x/clear_black_24dp.png)
+
+Share
+
+![Facebook](https://www.gstatic.com/kpui/social/fb_32x32.png)Facebook
+
+![Twitter](https://www.gstatic.com/kpui/social/twitter_32x32.png)Twitter
+
+![](https://www.gstatic.com/images/icons/material/system/1x/mail_grey600_24dp.png)Email
+
+Click to copy link
+
+Link copied
+
+![Cite](https://fonts.gstatic.com/s/i/materialiconsextended/format_quote/v6/grey600-24dp/1x/baseline_format_quote_grey600_24dp.png)Cite
+
+![Close](https://www.gstatic.com/images/icons/material/system/1x/clear_black_24dp.png)
+
+Cite
+
+Nour Moustafa (2022). The Bot-IoT dataset \[Dataset\]. https://ieee-dataport.org/documents/bot-iot-dataset
+
+![](https://fonts.gstatic.com/s/i/materialiconsextended/copy_all/v2/grey600-24dp/1x/baseline_copy_all_grey600_24dp.png)
+Copy
+
+![](https://fonts.gstatic.com/s/i/materialiconsextended/copy_all/v2/grey600-24dp/1x/baseline_copy_all_grey600_24dp.png)
+Copied to clipboard
+
+
+Save
+
+# The Bot-IoT dataset
+
+Explore at:
+
+- ieee-dataport.org [ieee-dataport.org](https://ieee-dataport.org/documents/bot-iot-dataset)
+
+
+Dataset updated
+
+Oct 27, 2022
+
+Authors
+
+Nour Moustafa
+
+License
+
+[Attribution 4.0 (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/) https://creativecommons.org/licenses/by/4.0/
+
+License information was derived automatically
+
+Description
+
+in most cases

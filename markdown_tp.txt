@@ -1,0 +1,918 @@
+[How to become a seller](https://market.thingpark.com/become-a-seller) [Seller login](https://market.thingpark.com/seller-portal) [FAQ](https://market.thingpark.com/faq)
+
+Contact us
+
+[Blog](https://market.thingpark.com/blog)
+
+Search
+
+Sign upLogin
+
+Ship to
+
+![](https://market.thingpark.com/media/countries/us.svg)
+
+[![Logo](https://market.thingpark.com/assets/svg/58354d4ab1da33ce3c26c2d4a0b9e4d0.svg)](https://market.thingpark.com/)
+
+- [Solutions](https://market.thingpark.com/solutions)
+
+
+
+
+
+
+![Smart City](https://market.thingpark.com/media/catalog/category/Icon-set_Building.png)
+Smart City
+![Smart Farming](https://market.thingpark.com/media/catalog/category/Icon-set_Agriculture_3.png)
+Smart Farming
+![Smart Energy & Utilities](https://market.thingpark.com/media/catalog/category/energey512.png)
+Smart Energy & Utilities
+![Smart Home & Building](https://market.thingpark.com/media/catalog/category/Icon-set_Building.png)
+Smart Home & Building
+
+
+
+
+
+
+
+
+![Smart Industry](https://market.thingpark.com/media/catalog/category/Icon-set_Factory_1__1.png)
+Smart Industry
+![Smart Health](https://market.thingpark.com/media/catalog/category/Icon-set_health.png)
+Smart Health
+![Smart Logistics & Transport](https://market.thingpark.com/media/catalog/category/Icon-set_Transport_1.png)
+Smart Logistics & Transport
+![Smart Tracking](https://market.thingpark.com/media/catalog/category/Icon-set_Tracking.png)
+Smart Tracking
+
+
+
+
+
+
+
+
+![Smart Security & Safety](https://market.thingpark.com/media/catalog/category/Icon-set_Security.png)
+Smart Security & Safety
+
+- [Devices](https://market.thingpark.com/devices)
+
+
+
+
+
+
+![Smart City](https://market.thingpark.com/media/catalog/category/Icon-set_Building.png)
+Smart City
+![Smart Farming](https://market.thingpark.com/media/catalog/category/Icon-set_Agriculture_2.png)
+Smart Farming
+![Smart Industry](https://market.thingpark.com/media/catalog/category/Icon-set_Factory_1__1.png)
+Smart Industry
+![Smart Home & Building](https://market.thingpark.com/media/promo_banner/upload/Icon-set_Building.png)
+Smart Home & Building
+
+
+
+
+
+
+
+
+![Smart Health](https://market.thingpark.com/media/catalog/category/Icon-set_health.png)
+Smart Health
+![Smart Energy & Utilities](https://market.thingpark.com/media/catalog/category/energey512.png)
+Smart Energy & Utilities
+![Smart Logistics & Transport](https://market.thingpark.com/media/catalog/category/Icon-set_Transport_1.png)
+Smart Logistics & Transport
+![Smart Security & Safety](https://market.thingpark.com/media/catalog/category/Icon-set_Security.png)
+Smart Security & Safety
+
+
+
+
+
+
+
+
+![Smart Tracking](https://market.thingpark.com/media/catalog/category/Icon-set_Tracking.png)
+Smart Tracking
+![ATEX Certified](https://market.thingpark.com/media/promo_banner/upload/3e21d506-ddee-4559-a249-fa8982d703f7_1.png)
+ATEX Certified
+![Modules & Generic Devices](https://market.thingpark.com/media/promo_banner/upload/modules_512_1.png)
+Modules & Generic Devices
+
+- [Base Stations](https://market.thingpark.com/base-stations)
+
+
+
+
+
+
+
+
+  - [Indoor](https://market.thingpark.com/base-stations/indoor)
+  - [Outdoor](https://market.thingpark.com/base-stations/outdoor)
+  - [Industrial](https://market.thingpark.com/base-stations/industrial)
+
+- [Connectivity](https://market.thingpark.com/connectivity)
+
+
+
+
+
+
+
+
+  - [Private LoRaWAN® Network Servers](https://market.thingpark.com/connectivity/private-lorawan-networks-servers)
+  - [Public LoRaWAN® Connectivity](https://market.thingpark.com/connectivity/public-connectivity)
+  - [Actility Global SIM Card](https://market.thingpark.com/connectivity/actility-global-sim-card)
+  - [Private Cellular / CBRS](https://market.thingpark.com/connectivity/private-cellular-cbrs)
+
+- [App Platforms](https://market.thingpark.com/app-platforms)
+- [Accessories](https://market.thingpark.com/accessories)
+
+
+
+
+
+
+
+
+  - [Antennas](https://market.thingpark.com/accessories/antennas)
+  - [Batteries](https://market.thingpark.com/accessories/batteries)
+  - [Beacons & Tags](https://market.thingpark.com/accessories/ble-beacons)
+  - [Cables](https://market.thingpark.com/accessories/cables)
+  - [Docking Stations](https://market.thingpark.com/accessories/docking-stations)
+  - [Magnets](https://market.thingpark.com/accessories/magnets)
+  - [PoE Adapters](https://market.thingpark.com/accessories/poe-adapters)
+  - [Relay / Repeaters](https://market.thingpark.com/accessories/relay-repeaters)
+
+- [Services](https://market.thingpark.com/services)
+
+
+
+
+
+
+
+
+  - [Support & Maintenance](https://market.thingpark.com/services/support-maintenance)
+
+My Cart
+
+[Home](https://market.thingpark.com/) Devices
+
+![](https://market.thingpark.com/media/catalog/category/smart_trackers_512.png)
+
+Devices
+
+Explore our specialized marketplace for IoT devices, designed to meet the diverse needs of any business challenge. From tracking valuable assets to monitoring environmental parameters, our products facilitate real-time data collection and proactive management across various sectors such as Smart Farming, Smart Energy, Smart Buildings, Logistics & Transportation, Smart Health and more.
+
+At ThingPark Market, we offer the world’s largest LoRaWAN catalog.
+
+Our IoT Devices carrying the ThingPark Connected label are certified to ensure seamless integration with our ThingPark platforms, including ThingPark Enterprise and ThingPark Community (free cloud-based ThingPark Enterprise for limited non-commercial use). Additionally, we provide a variety of devices compatible with LoRaWAN, NB-IoT, and LTE-M protocols, catering to a broad array of communication needs and project scopes.
+
+**Tips for choosing the right IoT Device:**
+
+When selecting the perfect IoT device for your project, consider these refined tips:
+
+- **Purpose and Use Case:** Define the specific functionalities required by your IoT device. Determine what data it must collect and the type of responses it should trigger.
+
+
+- **Installation Environment:** Identify whether the device will be used indoors or outdoors. This influences the necessity for weather-resistant features or protective IP casing due to environmental conditions like humidity or temperature extremes.
+
+
+- **Geographical Considerations:** Ensure the device complies with ISM band requirements for the specific location of your project, crucial for maintaining compliance and functionality.
+
+
+- **Connectivity Needs:** Match your project requirements with the appropriate network connectivity. Whether it’s NB-IoT and LTE-M for real-time and heavy data communication needs (MBs of dataper device per day), the so-called Critical IoT, or LoRaWAN for any other use case, which falls under Massive IoT, selecting the right protocol is essential.
+
+
+- **Future Scalability:** Plan for potential future growth by selecting devices that can integrate smoothly with expanding technological demands and scale with your project’s development.
+
+
+These considerations will help you select an IoT device that not only meets your current requirements but is also adaptable to future expansions, ensuring long-term viability and compliance for your smart solutions.
+
+Read more
+
+## Categories
+
+See all categories
+
+[![](https://market.thingpark.com/media/catalog/category/3e21d506-ddee-4559-a249-fa8982d703f7_2.png)\\
+\\
+ATEX Certified](https://market.thingpark.com/devices/atex-certified)
+
+[![](https://market.thingpark.com/media/catalog/category/Icon-set_Building.png)\\
+\\
+Smart City](https://market.thingpark.com/devices/smart-city)
+
+[![](https://market.thingpark.com/media/catalog/category/energey512_1.png)\\
+\\
+Smart Energy & Utilities](https://market.thingpark.com/devices/smart-energy-utilities)
+
+[![](https://market.thingpark.com/media/catalog/category/Icon-set_Agriculture_1.png)\\
+\\
+Smart Farming](https://market.thingpark.com/devices/smart-farming)
+
+[![](https://market.thingpark.com/media/catalog/category/Icon-set_health.png)\\
+\\
+Smart Health](https://market.thingpark.com/devices/smart-health)
+
+[![](https://market.thingpark.com/media/catalog/category/Icon-set_Building_3.png)\\
+\\
+Smart Home & Building](https://market.thingpark.com/devices/smart-home-building)
+
+[![](https://market.thingpark.com/media/catalog/category/Icon-set_Factory_1__1.png)\\
+\\
+Smart Industry](https://market.thingpark.com/devices/smart-industry)
+
+[![](https://market.thingpark.com/media/catalog/category/Icon-set_Transport_1.png)\\
+\\
+Smart Logistics & Transport](https://market.thingpark.com/devices/smart-logistics-transport)
+
+[![](https://market.thingpark.com/media/catalog/category/Icon-set_Security.png)\\
+\\
+Smart Security & Safety](https://market.thingpark.com/devices/smart-security-safety)
+
+[![](https://market.thingpark.com/media/catalog/category/Icon-set_Tracking.png)\\
+\\
+Smart Tracking](https://market.thingpark.com/devices/smart-tracking)
+
+[![](https://market.thingpark.com/media/catalog/category/modules_512.png)\\
+\\
+Modules & Generic Devices](https://market.thingpark.com/devices/modules-generic-devices)
+
+FiltersSort by
+
+Categories
+
+Search
+
+Modules & Generic DevicesSmart CitySmart Energy & UtilitiesSmart FarmingSmart Health
+
+All 11 option(s)
+
+Categories
+
+A
+
+ATEX Certified
+
+M
+
+Modules & Generic Devices
+
+S
+
+Smart City
+
+Smart Energy & Utilities
+
+Smart Farming
+
+Smart Health
+
+Smart Home & Building
+
+Smart Industry
+
+Smart Logistics & Transport
+
+Smart Security & Safety
+
+Smart Tracking
+
+LoRaWAN RF Region
+
+Search
+
+EU868 - Europe 863-870MHzAS923 - Asia 915-928MHzUS915 - US 902-928MHzAU915 - Australia 915-928MHzKR920 - South Korea 920-923MHz
+
+All 14 option(s)
+
+LoRaWAN RF Region
+
+A
+
+AS923 - Asia 915-928MHz
+
+AU915 - Australia 915-928MHz
+
+AS923 - Australia 915-928MHz
+
+AU920 - Australia 915-928MHz
+
+C
+
+CN470 - China 470-510MHz
+
+CN780 - China 779-787MHz
+
+E
+
+EU868 - Europe 863-870MHz
+
+EU433 - Europe 433MHz
+
+I
+
+IN865 - India 865-867MHz
+
+J
+
+JP920 - Japan 920MHz
+
+K
+
+KR920 - South Korea 920-923MHz
+
+R
+
+RU864 - Russia 864-870MHz
+
+U
+
+US915 - US 902-928MHz
+
+US915
+
+LoRa Class
+
+Class AClass CClass B
+
+€0
+
+€5,013
+
+From:€To:€
+
+Rating
+
+Don't show without reviews
+
+Seller
+
+Search
+
+netvoxMilesightActilityPolysense Technologies Inc.Watteco
+
+All 61 option(s)
+
+Seller
+
+A
+
+Actility
+
+ATIM
+
+Atomsenses
+
+AiLux Srl
+
+B
+
+Beijing Dingtek Technology Corp.,Ltd
+
+C
+
+CNets
+
+CleanHand OÜ
+
+Cicicom Ltd
+
+D
+
+DataPrint
+
+Decentlab GmbH
+
+Dekist Co., Ltd.
+
+DNX Co Ltd
+
+E
+
+ERCOGENER
+
+Energy Management System co., ltd
+
+Extronics Ltd
+
+EMU Metering GmbH
+
+F
+
+Fludia
+
+I
+
+IQnexus
+
+Infomir OÜ
+
+IVY METERING
+
+ioThings
+
+Infrafon GmbH
+
+Iris-iot Solutions Ltd
+
+IMST GmbH
+
+K
+
+KS Technologies, LLC
+
+L
+
+LANSITEC
+
+M
+
+Milesight
+
+MOKO TECHNOLOGY LTD
+
+MClimate
+
+M2M Connectivity Pty Ltd
+
+N
+
+netvox
+
+Nexelec
+
+Netbits
+
+NEMEUS
+
+P
+
+Polysense Technologies Inc.
+
+R
+
+RisingHF Network(Shenzhen)Co.,Ltd
+
+RUICTEC
+
+RigExpert
+
+Robustel Limited
+
+S
+
+Shenzhen Minew Technologies CO., LTD.
+
+Sensedge
+
+Sensative AB
+
+Solvera Lynx
+
+Small Data Garden Ltd
+
+SKYSENS
+
+Shenzhen Minewsemi co..Ltd.
+
+Spacosa corp
+
+Secure Sensor Innovative Design Ltd
+
+Sensoro Inc
+
+Smart Home Distribution GmbH
+
+T
+
+Thermokon Sensortechnik GmbH
+
+Tinovi
+
+Terabee
+
+TWTG
+
+U
+
+UAB Nano sensorics
+
+V
+
+Villotec
+
+Vestitech AB
+
+W
+
+Watteco
+
+WiRan Sp. z.o.o.
+
+Y
+
+Yosensi Sp. z o.o.
+
+YOBIIQ B.V.
+
+Certification
+
+Search
+
+CERoHSFCCOtherLoRaWAN Certified
+
+All 18 option(s)
+
+Certification
+
+A
+
+ATEX/IECEx zone 1
+
+ATEX/IECEX zone 2
+
+ATIC Australie
+
+ANATEL
+
+AS/NZS
+
+B
+
+Bluetooth SIG
+
+C
+
+CE
+
+F
+
+FCC
+
+I
+
+IC Canada
+
+IP rating
+
+K
+
+KC
+
+L
+
+LoRaWAN Certified
+
+LoRa® Alliance
+
+O
+
+Other
+
+Orange LoRa®
+
+R
+
+RoHS
+
+RCM
+
+T
+
+ThingPark Connected
+
+Product capabilities
+
+Search
+
+Air temperature sensorAir humidity sensorSmart cityCarbon dioxide (CO₂) SensorTemperature Sensor
+
+All 100 option(s)
+
+Product capabilities
+
+A
+
+Air temperature sensor
+
+Air humidity sensor
+
+Asset tracking (network based)
+
+AC current meter
+
+Air Total Volatile Organic Compouds (TVOC) Sensor
+
+Activity Tracking
+
+Action button / Push button
+
+Analogue sensor 0-10V
+
+Autonomous repeater for network densification
+
+B
+
+Barometric pressure sensor
+
+Button
+
+Beehive monitoring
+
+Boat monitoring
+
+C
+
+Carbon dioxide (CO₂) Sensor
+
+Carbon Monoxyde (CO) sensor
+
+Cold chain & environmental monitoring
+
+Cattle tracking
+
+Construction
+
+Calving prediction & detection
+
+Cleaning service supervision
+
+Cattle drink water quality control
+
+Chlorine concentration monitoring
+
+D
+
+Distance / level sensor
+
+Distribution fault detector
+
+Data communication
+
+Door opening detection for Cabinet & Substations
+
+Dry matter measurement
+
+Distribution panel monitoring
+
+Door opening monitoring for trains
+
+E
+
+Electric Smart metering
+
+Emergency Button
+
+F
+
+Fleet management - vehicle tracking
+
+Farm animal area monitoring
+
+Fire prevention
+
+Fence monitoring
+
+Fall Detection
+
+Fire hydrant monitoring
+
+Fuse inclinaison detection
+
+G
+
+Geolocation
+
+Gas sensing
+
+Greenhouses cultivation monitoring
+
+Guard tour monitoring
+
+H
+
+Health monitoring
+
+HVAC monitoring
+
+I
+
+Inventory management
+
+Infrared barrier
+
+Irrigation control
+
+L
+
+Liquid level and temperature sensor
+
+Liquid level sensor
+
+LoRaWAN Modem
+
+Light sensor
+
+LoRaWAN Module
+
+Lighting management
+
+M
+
+Motion/vibration sensor
+
+Milk system monitoring
+
+Manhole monitoring
+
+M-Bus (EN13757) reader
+
+N
+
+Noise level monitoring
+
+O
+
+Open/close binary input sensor
+
+On/Off binary output actuators
+
+P
+
+Positioning
+
+Parking sensor
+
+PM2.5 sensor
+
+Presence & Occupancy sensor
+
+Pressure sensor
+
+Pulse count sensor
+
+Predictive maintenance
+
+Pressure, Liquid level and temperature sensor
+
+pH measurement
+
+Pipeline monitoring
+
+R
+
+Radio Transmitter
+
+RS485/ModBus RTU bridge
+
+Rainwater outlet valve monitoring
+
+Runaway Detection
+
+S
+
+Smart city
+
+Smart agricultures
+
+Smart energy & utilities
+
+Smart lighting
+
+Soil moisture sensor
+
+Soil temperature
+
+Sensor integration
+
+Smoke detector
+
+SOS Alarm
+
+Smart waste
+
+Smart Plug with current measurement
+
+Siren
+
+Soil volumetric water content
+
+Soil water potential
+
+T
+
+Temperature Sensor
+
+Thermocouple sensor
+
+Tool monitoring
+
+Transfer valve monitoring
+
+V
+
+Valve actuator
+
+Voltage monitoring and energy management
+
+W
+
+Water metering & leak detection
+
+Workplace management
+
+Work site productivity optimization
+
+Weather station
+
+Wind speed
+
+Water Turbidity measurement
+
+0 items
+
+### Devices
+
+Explore our specialized marketplace for IoT devices, designed to meet the diverse needs of any business challenge. From tracking valuable assets to monitoring environmental parameters, our products facilitate real-time data collection and proactive management across various sectors such as Smart Farming, Smart Energy, Smart Buildings, Logistics & Transportation, Smart Health and more.
+
+At ThingPark Market, we offer the world’s largest LoRaWAN catalog.
+
+Our IoT Devices carrying the ThingPark Connected label are certified to ensure seamless integration with our ThingPark platforms, including ThingPark Enterprise and ThingPark Community (free cloud-based ThingPark Enterprise for limited non-commercial use). Additionally, we provide a variety of devices compatible with LoRaWAN, NB-IoT, and LTE-M protocols, catering to a broad array of communication needs and project scopes.
+
+**Tips for choosing the right IoT Device:**
+
+When selecting the perfect IoT device for your project, consider these refined tips:
+
+- **Purpose and Use Case:** Define the specific functionalities required by your IoT device. Determine what data it must collect and the type of responses it should trigger.
+
+
+- **Installation Environment:** Identify whether the device will be used indoors or outdoors. This influences the necessity for weather-resistant features or protective IP casing due to environmental conditions like humidity or temperature extremes.
+
+
+- **Geographical Considerations:** Ensure the device complies with ISM band requirements for the specific location of your project, crucial for maintaining compliance and functionality.
+
+
+- **Connectivity Needs:** Match your project requirements with the appropriate network connectivity. Whether it’s NB-IoT and LTE-M for real-time and heavy data communication needs (MBs of dataper device per day), the so-called Critical IoT, or LoRaWAN for any other use case, which falls under Massive IoT, selecting the right protocol is essential.
+
+
+- **Future Scalability:** Plan for potential future growth by selecting devices that can integrate smoothly with expanding technological demands and scale with your project’s development.
+
+
+These considerations will help you select an IoT device that not only meets your current requirements but is also adaptable to future expansions, ensuring long-term viability and compliance for your smart solutions.
+
+[![Logo](https://market.thingpark.com/assets/svg/e599ad578bfb6e8ba006959a4219a69a.svg)](https://market.thingpark.com/)
+
+Secure Payment
+
+Worldwide shipping
+
+Certified Solutions
+
+Customer Service 5/7
+
+Subscribe to all updates
+
+ThingPark® Market
+
+- [About us](https://market.thingpark.com/about-us)
+- Contact Us
+- [Become a Seller](https://market.thingpark.com/become-a-seller)
+- [Seller Portal](https://market.thingpark.com/marketplace/seller/login)
+- [Seller Agreement](https://market.thingpark.com/seller-agreement)
+- [Company Guidelines](https://market.thingpark.com/code-of-ethics)
+- [Blog](https://market.thingpark.com/blog)
+- [FAQ](https://market.thingpark.com/faq)
+
+Related Websites
+
+- [Abeeway](https://www.abeeway.com/)
+- [Actility](https://www.actility.com/)
+- [ThingPark® Community](https://community.thingpark.org/)
+- [ThingPark® Forum](https://support.thingpark.org/portal/en/community/recent)
+
+Customer service
+
+- [Payment Methods](https://market.thingpark.com/faq/5?faq_id=25)
+- [Shipment Conditions](https://market.thingpark.com/faq/2?faq_id=3)
+- [Return Policy](https://market.thingpark.com/faq/6?faq_id=31)
+- [Frequency Guide](https://market.thingpark.com/lorawan-frequency)
+- [Request a Quote](https://market.thingpark.com/faq/2?faq_id=12)
+- [Contact the Seller](https://market.thingpark.com/faq/6?faq_id=33)
+
+[Actility’s property all rights reserved \*](https://market.thingpark.com/) [Participation Policy](https://market.thingpark.com/)
+
+- ![Visa](https://market.thingpark.com/assets/images/5056ed80dc7f3bae4225.png)
+- ![MasterCard](https://market.thingpark.com/assets/images/88bf4d2e279893e47028.png)
+- ![Sepa](https://market.thingpark.com/assets/images/57d4a6df056eb9a54419.png)
+- ![Wire](https://market.thingpark.com/assets/images/55f46209d773653911fe.png)
+
+Made with![heart](https://market.thingpark.com/assets/images/7979a8f041e72ecddeab.png)by Actility
+
+StripeM-Inner

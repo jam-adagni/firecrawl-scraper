@@ -1,0 +1,163 @@
+[![](https://thingspeak.mathworks.com/assets/thingspeak_logo_white-ef4990033a96773df16f2a98e7d72e06f1f497d026145ebbcce1aa9d974e9015.png)](https://thingspeak.mathworks.com/)
+
+- [![](https://thingspeak.mathworks.com/assets/ico-header-account-04278bcd3c3a471562ed25e3f1e5a847993c59f7b63283b9b92ebfef4460a4f1.svg)Sign In](https://thingspeak.mathworks.com/login "Sign In")
+
+- [Channels](https://thingspeak.mathworks.com/channels/public)
+- [Apps](https://thingspeak.mathworks.com/apps)
+- [Support](https://thingspeak.mathworks.com/#)  - [Documentation](https://www.mathworks.com/help/thingspeak/)
+  - [Tutorials](https://www.mathworks.com/help/thingspeak/getting-started-with-thingspeak.html)
+  - [Examples](https://www.mathworks.com/help/thingspeak/examples.html)
+  - [Community Support](https://www.mathworks.com/matlabcentral/topics/thingspeak.html)
+
+[Commercial Use](https://thingspeak.mathworks.com/pages/commercial_learn_more)
+- [How to Buy](https://thingspeak.mathworks.com/prices)
+
+[![](https://thingspeak.mathworks.com/assets/ico-header-account-04278bcd3c3a471562ed25e3f1e5a847993c59f7b63283b9b92ebfef4460a4f1.svg)Sign In](https://thingspeak.mathworks.com/login "Sign In")
+
+![](https://thingspeak.mathworks.com/assets/thingspeak-banner-mobile-a2c2d3a2f922eafff6f74edb9aa0332fa5978ebfc68e1e1d7d4b91bb2c3d52ed.jpg)
+
+## ThingSpeak for IoT Projects
+
+Data collection in the cloud with advanced data analysis using MATLAB
+
+[Get Started For Free](https://thingspeak.mathworks.com/login?skipSSOCheck=true)
+
+# ThingSpeak for IoT Projects
+
+Data collection in the cloud with advanced data analysis using MATLAB
+
+[Get Started For Free](https://thingspeak.mathworks.com/login?skipSSOCheck=true) [Learn More](https://thingspeak.mathworks.com/pages/learn_more)
+
+#### Contact Us
+
+Email Address
+
+Message
+
+Close
+
+[![](https://thingspeak.mathworks.com/assets/thingspeak-education-b68f670427a5e3c36d647ccfb05c033a5d048f34a8b38700544401be93171e3c.jpg)\\
+\\
+**ThingSpeak for Students and Educators** \\
+\\
+Implement IoT research projects quickly with built-in MATLAB data analysis tools and real-time sensor data collection](https://thingspeak.mathworks.com/pages/education)
+
+[![](https://thingspeak.mathworks.com/assets/thingspeak-air-quality-monitoring-d8996eeeb709b0209cfda3d87ddd4832fe15ea6abb748d665f6f7c3f47619082.jpg)\\
+\\
+**ThingSpeak for Environmental Monitoring** \\
+\\
+Build IoT services for remote monitoring of air quality sensors, and create MATLAB models to predict pollution levels](https://thingspeak.mathworks.com/pages/environmental_monitoring)
+
+[![](https://thingspeak.mathworks.com/assets/thingspeak-energy-monitoring-65222dd2be2ac0bcf466b82afd097c743b93ab5d035a8a9a528156e3e2a018a9.jpg)\\
+\\
+**ThingSpeak for Energy Monitoring** \\
+\\
+Build IoT applications to monitor energy usage, and develop MATLAB models for power signature identification and load forecasting](https://thingspeak.mathworks.com/pages/energy_monitoring)
+
+[![](https://thingspeak.mathworks.com/assets/thingspeak-smart-farming-e7669ad8ac4a6e3d89810298bd04662176cf6980f59369ef83a15ff800d3cdbe.jpg)\\
+\\
+**ThingSpeak for Smart Farming** \\
+\\
+Build applications for remote monitoring of sensors deployed on farms, and develop MATLAB models to increase crop yields and reduce costs](https://thingspeak.mathworks.com/pages/smart_farming)
+
+# About ThingSpeak
+
+ThingSpeak is an IoT analytics platform service that allows you to aggregate, visualize, and analyze live data streams in the cloud.
+You can send data to ThingSpeak from your devices, create instant visualization of live data, and send alerts.
+
+
+# [![](https://thingspeak.mathworks.com/assets/collect-26ba872647f98788577b2cfd75c9730ad95248b1676d9ec13a8e527bf0246cc7.svg)Collect](https://thingspeak.mathworks.com/pages/how_to)
+
+Send sensor data privately to the cloud.
+
+# [![](https://thingspeak.mathworks.com/assets/analyze-6b9884c01b700932c18513941fce45a928c31e9a0ee41ab5e535e6abd6590460.svg)Analyze](https://thingspeak.mathworks.com/pages/how_to\#analyze)
+
+Analyze and visualize your data with MATLAB.
+
+# [![](https://thingspeak.mathworks.com/assets/act-013798d4898c2a4bdea025acf424a7b0c144c364681469d252d3e9b6c66efd54.svg)Act](https://thingspeak.mathworks.com/pages/how_to\#act)
+
+Trigger a reaction.
+
+## ThingSpeak Features
+
+- [Collect data in private channels](https://www.mathworks.com/help/thingspeak/collect-data-in-a-new-channel.html)
+- [Share data with public channels](https://www.mathworks.com/help/thingspeak/collect-data-in-a-new-channel.html)
+- [RESTful and MQTT APIs](https://www.mathworks.com/help/thingspeak/channels-and-charts-api.html)
+- [MATLAB® analytics and visualizations](https://www.mathworks.com/help/thingspeak/matlab-analysis-and-visualization.html)
+- [Event scheduling](https://www.mathworks.com/help/thingspeak/timecontrol-app.html)
+
+- [Alerts](https://www.mathworks.com/help/thingspeak/monitor-channel-inactivity-using-multiple-thingSpeak-apps.html)
+- [App integrations](https://www.mathworks.com/help/thingspeak/thingspeak-apps.html)
+
+## Works With
+
+- [MATLAB® & Simulink®](https://www.mathworks.com/hardware-support/thingspeak.html)
+- [Arduino®](https://github.com/mathworks/thingspeak-arduino)
+- [Particle devices](https://github.com/mathworks/thingspeak-particle)
+- [ESP8266 and ESP32 Wifi Modules](https://www.mathworks.com/help/thingspeak/examples.html?category=write-data)
+- [Raspberry Pi™](https://community.thingspeak.com/tag/raspberry-pi/)
+
+- [LoRaWAN®](https://lora-alliance.org/about-lorawan/)
+- [Things Network](https://www.mathworks.com/help/thingspeak/write_things_network.html)
+[Senet](https://docs.senetco.io/dev/stream/#thingspeak)
+[Libelium](https://www.mathworks.com/hardware-support/libelium-sensors.html)
+[Beckhoff](https://infosys.beckhoff.com/english.php?content=../content/1033/tf6701_tc3_iot_communication_mqtt/9007203171423371.html)
+
+# Featured Projects and Customer Stories
+
+[![](https://thingspeak.mathworks.com/assets/project_cadmus_story-49ebd2147a46e723a01918e3ae4b5c7d92efdb48723785a613adf6305fda858a.png)\\
+\\
+**Energy Data Analysis** \\
+\\
+Cadmus used MATLAB and ThingSpeak to deploy a system of cloud-connected sensors for the near-real-time measurement and analysis of energy data. The system uses off-the-shelf hardware to monitor and analyze loads of HVAC systems and large appliances.](https://www.mathworks.com/company/user_stories/cadmus-collects-and-analyzes-energy-data-in-near-real-time-using-matlab-and-the-thingSpeak-internet-of-things-platform.html)
+
+[![](https://thingspeak.mathworks.com/assets/project_tide_level-e88faf8d1cf29d72c0546a30f493907f3add9d2359f1cb1bb19dbfb45b5a340d.png)\\
+\\
+**Tide Prediction** \\
+\\
+This project shows how to prototype and deploy an IoT system with data analytics without developing custom web software. Specifically, a tidal forecasting system that uses neural networks to predict the effect of wind on water levels is described.](https://www.mathworks.com/company/newsletters/articles/developing-an-iot-analytics-system-with-matlab-machine-learning-and-thingspeak.html)
+
+[![](https://thingspeak.mathworks.com/assets/project_car_counter-d950e300288f53c404dbb6475afca34cc661422aedd91b8a69f6b20518ea0cd4.png)\\
+\\
+**Traffic Monitor** \\
+\\
+This project shows how to build a traffic monitor with a Raspberry Pi and a webcam. Simulink is used to design and deploy an algorithm onto the Raspberry Pi that calculates the density of cars on a busy highway. The traffic information is sent to ThingSpeak, and MATLAB is used to analyze and visualize the traffic patterns.](http://makerzone.mathworks.com/blog/counting-cars-and-analyzing-traffic-raspberry-pi-thingspeak/)
+
+[![](https://thingspeak.mathworks.com/assets/project_weather_station-7c6d32bb14c2da301c897808b1cf08c79f4e66aed4f9944d60354f491d0a589c.png)\\
+\\
+**Weather Station** \\
+\\
+This project shows how to build an Arduino-based weather station that sends data to ThingSpeak. Once the data is collected, MATLAB is used to view trends of the data, plot histograms of the data, calculate dew point from the raw temperature and humidity data, and create custom visualizations.](http://makerzone.mathworks.com/stories/arduino-stories/weather-station-analysis-revisited/)
+
+# Latest News  [ThingSpeak RSS Feed](http://feeds.feedburner.com/internetofthings/ "ThingSpeak RSS Feed")
+
+- [Anomaly Detection System at Gunma Industrial Technology Center: another example of easy sharing of data analysis with ThingSpeak](https://blogs.mathworks.com/iot/2024/12/19/anomaly-detection-system-at-gunma-industrial-technology-center-another-example-of-easy-sharing-of-your-data-and-insights-with-thingspeak/?s_tid=feedtopost)
+- [New ThingSpeak IoT Examples and Curriculum Module: Hardware Connectivity in Action](https://blogs.mathworks.com/iot/2024/05/31/new-thingspeak-iot-examples-and-curriculum-module-hardware-connectivity-in-action/?s_tid=feedtopost)
+- [An interview with MATLAB playground: Build your IoT Analysis and Plots for ThingSpeak](https://blogs.mathworks.com/iot/2023/11/27/an-interview-with-matlab-playground-build-your-iot-analysis-and-plots-for-thingspeak/?s_tid=feedtopost)
+
+# Connect With Us
+
+[TUTORIALS](https://www.mathworks.com/help/thingspeak/getting-started-with-thingspeak.html "ThingSpeak Tutorials")
+
+[DOC](https://www.mathworks.com/help/thingspeak/ "ThingSpeak API and Apps Documentation")
+
+[FORUM](https://www.mathworks.com/matlabcentral/topics/thingspeak.html "ThingSpeak Community")
+
+[BLOG](https://blogs.mathworks.com/iot/ "ThingSpeak IoT News")
+
+CONTACT US
+
+[GITHUB](https://github.com/mathworks/thingspeak-arduino "ThingSpeak Communication Library for Arduino on GitHub")
+
+This website uses cookies to improve your user experience, personalize content and ads, and analyze website traffic. By continuing to use this website, you consent to our use of cookies. Please see our [Privacy Policy](https://www.mathworks.com/company/aboutus/policies_statements.html) to learn more about cookies and how to change your settings.
+
+[Blog](https://blogs.mathworks.com/iot/ "IoT Blog") \|
+[Documentation](https://www.mathworks.com/help/thingspeak/ "ThingSpeak Documentation") \|
+[Tutorials](https://www.mathworks.com/help/thingspeak/getting-started-with-thingspeak.html "ThingSpeak Tutorials") \|
+[Terms](https://www.mathworks.com/company/aboutus/policies_statements/online-services-agreement.html) \|
+[Privacy Policy](https://www.mathworks.com/company/aboutus/policies_statements.html)
+
+[![](https://thingspeak.mathworks.com/assets/ico-facebook-864217e7723b63bd8687c81e99e677c0a1efba1db6282794f4077f3d6d5cae86.svg)](https://www.facebook.com/thingspeak)[![](https://thingspeak.mathworks.com/assets/ico-twitter-502ca920ad71f398928c9ec00203b98655f8b1ba821b95f4cf11b4eef72b6d4b.svg)](https://twitter.com/thingspeak)[![](https://thingspeak.mathworks.com/assets/ico-rss-349a27d6441a574f9218ee6e808d147dc5566204c79d967cf90b33b0bd026171.svg)](http://feeds.feedburner.com/internetofthings)
+© 2026 [The MathWorks, Inc.](https://www.mathworks.com/)
+
+MathWorks Account Status

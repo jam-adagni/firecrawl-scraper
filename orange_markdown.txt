@@ -1,0 +1,338 @@
+[![Back to homepage](https://iotjourney.orange.com/img/orange_logo.svg)**IoT Journey**](https://iotjourney.orange.com/en)
+
+- [Explore](https://iotjourney.orange.com/en/explore)
+- [Catalogue](https://iotjourney.orange.com/en/catalogue)
+- [Partners](https://iotjourney.orange.com/en/partners)
+- [Events](https://iotjourney.orange.com/en/iot-events)
+- [Support](https://iotjourney.orange.com/en/support)
+
+[Contact uscontact-us](mailto:partners.business@orange.com?subject=Contact%20us)
+
+* * *
+
+[![Back to homepage](https://iotjourney.orange.com/img/orange_logo.svg)](https://iotjourney.orange.com/en)
+
+- [Explore](https://iotjourney.orange.com/en/explore)
+
+
+
+
+
+
+
+
+
+[Close discover menu](https://iotjourney.orange.com/en/catalogue#mega-level-0-collapse "Close discover menu")
+
+
+
+
+
+  - [The IoT for which sector?](https://iotjourney.orange.com/en/explore/verticals)
+  - [IoT Solutions](https://iotjourney.orange.com/en/explore/solutions-iot)
+  - [Sustainable economy and IoT](https://iotjourney.orange.com/en/explore/sustainable-economy-and-iot)
+
+- [Catalogue](https://iotjourney.orange.com/en/catalogue)
+
+
+
+
+
+
+
+
+
+[Close discover menu](https://iotjourney.orange.com/en/catalogue#mega-level-1-collapse "Close discover menu")
+
+
+
+
+
+  - [I am looking for](https://iotjourney.orange.com/en/catalogue#)
+    - [Devices](https://iotjourney.orange.com/en/catalogue/iot-devices)
+      - [Modules, Development kits, Boards](https://iotjourney.orange.com/en/catalogue/type/modules-development-kits-boards)
+      - [Trackers, Sensors, Metering](https://iotjourney.orange.com/en/catalogue/type/trackers-sensors-metering)
+      - [Routers, Gateways](https://iotjourney.orange.com/en/catalogue/type/routers-gateways)
+      - [XR devices](https://iotjourney.orange.com/en/catalogue/type/xr-devices)
+      - [Computer vision](https://iotjourney.orange.com/en/catalogue/type/computer-vision)
+      - [Robotics, Automated Guided Vehicles, Private Mobile Radio Devices, Drones](https://iotjourney.orange.com/en/catalogue/type/robotics-automated-guided-vehicles-mobile-radio-devices-drones)
+    - [Technology](https://iotjourney.orange.com/en/catalogue/iot-devices)
+      - [5G](https://iotjourney.orange.com/en/catalogue/technology/5g)
+      - [4G-LTE](https://iotjourney.orange.com/en/catalogue/technology/4g-lte)
+      - [VoLTE](https://iotjourney.orange.com/en/catalogue/technology/volte)
+      - [LTE-Cat M](https://iotjourney.orange.com/en/catalogue/technology/lte-cat-m)
+      - [NB-IoT](https://iotjourney.orange.com/en/catalogue/technology/nb-iot)
+      - [LoRaWAN](https://iotjourney.orange.com/en/catalogue/technology/lorawan)
+    - [Connectivity](https://iotjourney.orange.com/en/connectivity)
+    - [Data and Devices management](https://iotjourney.orange.com/en/catalogue/data-and-device-management)
+    - [Orange Connected Validation](https://iotjourney.orange.com/en/catalogue/orange-connected-validation)
+
+- [Partners](https://iotjourney.orange.com/en/partners)
+
+
+
+
+
+
+
+
+
+[Close discover menu](https://iotjourney.orange.com/en/catalogue#mega-level-3-collapse "Close discover menu")
+
+
+
+
+
+  - [IoT Partnership Program](https://iotjourney.orange.com/en/partners/become-partner)
+  - [News about partners](https://iotjourney.orange.com/en/partners/iot-news)
+  - [Our device partners](https://iotjourney.orange.com/en/partners/our-partners)
+  - [IoT Stories](https://iotjourney.orange.com/en/partners/iot-stories)
+
+- [Events](https://iotjourney.orange.com/en/iot-events)
+
+
+
+
+
+
+
+
+
+[Close discover menu](https://iotjourney.orange.com/en/catalogue#mega-level-4-collapse "Close discover menu")
+
+- [Support](https://iotjourney.orange.com/en/support)
+
+
+
+
+
+
+
+
+
+[Close discover menu](https://iotjourney.orange.com/en/catalogue#mega-level-5-collapse "Close discover menu")
+
+
+
+
+
+  - [FAQ](https://iotjourney.orange.com/en/support/faq)
+  - [IoT Resources](https://iotjourney.orange.com/en/support/iot-resources)
+
+# Catalogue of IoT devices
+
+Orange presents a new catalogue dedicated to IoT business products: a range of IoT devices, modules and solutions from our selected partners.
+
+These products have been selected and validated by Orange on the Orange network in Europe.
+
+## Products' categories
+
+[![Modules, Development kits, Boards image](https://iotjourney.orange.com/img/poster/catalogue/modules-devkit-boards.jpg)\\
+\\
+**Modules, Development kits, Boards**](https://iotjourney.orange.com/en/catalogue/type/modules-development-kits-boards)
+
+[![Trackers, Sensors, Metering image](https://iotjourney.orange.com/img/poster/catalogue/trackers-sensors-metering.jpeg)\\
+\\
+**Trackers, Sensors, Metering**](https://iotjourney.orange.com/en/catalogue/type/trackers-sensors-metering)
+
+[![Routers, Gateways image](https://iotjourney.orange.com/img/poster/catalogue/routers-gateways.jpeg)\\
+\\
+**Routers, Gateways**](https://iotjourney.orange.com/en/catalogue/type/routers-gateways)
+
+[![XR Devices image](https://iotjourney.orange.com/img/poster/catalogue/xr-devices.jpeg)\\
+\\
+**XR Devices**](https://iotjourney.orange.com/en/catalogue/type/xr-devices)
+
+[![Computer Vision image](https://iotjourney.orange.com/img/poster/catalogue/computer-vision.jpeg)\\
+\\
+**Computer Vision**](https://iotjourney.orange.com/en/catalogue/type/computer-vision)
+
+[![Robotics, Automated Guided Vehicles, Private Mobile Radio Devices, Drones image](https://iotjourney.orange.com/img/poster/catalogue/robotics-agv-drones.jpeg)\\
+\\
+**Robotics, Automated Guided Vehicles, Private Mobile Radio Devices, Drones**](https://iotjourney.orange.com/en/catalogue/type/robotics-automated-guided-vehicles-mobile-radio-devices-drones)
+
+[View the entire catalogue](https://iotjourney.orange.com/en/catalogue/iot-devices)
+
+Orange Connected validation offer
+
+Are you a manufacturer or a customer and you want to validate your connected object on the Orange network?
+
+See the offer
+
+Integrate IoT catalogue
+
+If you are a manufacturer of terminals, sensors or modules, you can also offer your products in the Orange catalogue.
+
+Registration Foreground
+
+![icon Connectivity](https://iotjourney.orange.com/img/iot_connectivity.png)
+
+Connectivity
+
+Do you already know the type of connectivity you need and are you looking for our LoRaWan or cellular offers?
+
+[Consult our offers](https://iotjourney.orange.com/en/connectivity)
+
+![icon Data and Device management](https://iotjourney.orange.com/img/data.png)
+
+Data and Device management
+
+Set up your IoT projects easily and connect your objects to our networks easily, securely.
+
+[Start your project](https://iotjourney.orange.com/en/catalogue/data-and-device-management)
+
+Orange has defined three different levels of validation, identified by three different labels: Orange Assessed, Orange Connected and Orange Approved.
+
+Details about the different validation labels can be found in the [Frequent Asked Questions](https://iotjourney.orange.com/en/support/faq).
+
+ORANGE IoT ENG 220413 - YouTube
+
+[Photo image of IoT Business](https://www.youtube.com/channel/UC5UqPrjlroXL6EfHDDu7JKA?embeds_referring_euri=https%3A%2F%2Fiotjourney.orange.com%2F)
+
+IoT Business
+
+8 subscribers
+
+[ORANGE IoT ENG 220413](https://www.youtube.com/watch?v=LjxkugqruGM)
+
+IoT Business
+
+Search
+
+Watch later
+
+Share
+
+Copy link
+
+Info
+
+Shopping
+
+Tap to unmute
+
+If playback doesn't begin shortly, try restarting your device.
+
+More videos
+
+## More videos
+
+You're signed out
+
+Videos you watch may be added to the TV's watch history and influence TV recommendations. To avoid this, cancel and sign in to YouTube on your computer.
+
+CancelConfirm
+
+Share
+
+Include playlist
+
+An error occurred while retrieving sharing information. Please try again later.
+
+[Watch on](https://www.youtube.com/watch?v=LjxkugqruGM&embeds_referring_euri=https%3A%2F%2Fiotjourney.orange.com%2F)
+
+0:00
+
+0:00 / 2:53
+
+•Live
+
+•
+
+If you are a customer looking for IoT devices or solution for your business, or if you are a device manufacturer looking for a module to use for your products, please check the products selected by Orange in our IoT B2B catalogue.
+
+If you are a device or module manufacturer and you would like to candidate your products to be part of the Orange catalogue, please register on [https://foreground.orange.com](https://foreground.orange.com/).
+
+* * *
+
+![Responsible](https://iotjourney.orange.com/_next/image?url=%2Fimg%2Fhandtree.jpg&w=828&q=75)
+
+#Responsible
+
+## Using IoT efficiently can decrease our carbon footprint
+
+Companies can use AI and IoT for environmental sustainability along with eco-friendly hardware to reduce waste. For exemple, through IoT and AI, businesses can develop systems to monitor their hardware: the system can detect and notify if the life cycle of a part is over or has turned faulty and guide the consumer through replacement procedures.
+
+## How Iot can enable environmental sustainability
+
+**Energy efficiency**
+
+An IoT system collects and analyzes data about energy consumption, then automatically determines the most cost-effective way to use it.
+
+**Pollution reduction**
+
+When air quality is poor, a smart city takes immediate action (such as offering free public transportation) and can easily measure the impact of corrective measures.
+
+**Waste reduction**
+
+Real-time information about resource consumption makes it possible to apply resources as needed as well as identify leaks, thus reducing or eliminating waste.
+
+**Quality & Durability**
+
+Monitoring raw material processing temperatures, age and chemical make-up can impact the quality, safety, and shelf-life of products.
+
+**System longevity**
+
+By detecting sub-optimal asset functioning in the equipment, maintenance can be performed before down episodes, thus avoiding expensive or dangerous unplanned failures.
+
+**Sustainable Innovation**
+
+Implementing an IoT system often means reviewing your business model. It is a unique occasion to rethink how to provide the benefit, transform products into services and improve flexibility.
+
+**Sign up to our mailing list**
+
+[Sign up](mailto:partners.business@orange.com?subject=Subscribe%20to%20our%20newsletter&body=Hello%2C%20I%20would%20like%20to%20add%20this%20address%20to%20our%20newsletter)
+
+## Site map & information
+
+- Follow us
+- [linkedin](https://www.linkedin.com/groups/12246211/)
+- [mail](mailto:partner.business@orange.com)
+
+[Explore](https://iotjourney.orange.com/en/explore)
+
+[The IoT for which sector?](https://iotjourney.orange.com/en/explore/verticals)
+
+[IoT Solutions](https://iotjourney.orange.com/en/explore/solutions-iot)
+
+[Sustainable economy and IoT](https://iotjourney.orange.com/en/explore/sustainable-economy-and-iot)
+
+[Catalogue](https://iotjourney.orange.com/en/catalogue)
+
+[Modules, Development kits, Boards](https://iotjourney.orange.com/en/catalogue/type/modules-development-kits-boards)
+
+[Trackers, Sensors, Metering](https://iotjourney.orange.com/en/catalogue/type/trackers-sensors-metering)
+
+[Routers, Gateways](https://iotjourney.orange.com/en/catalogue/type/routers-gateways)
+
+[XR devices](https://iotjourney.orange.com/en/catalogue/type/xr-devices)
+
+[Computer vision](https://iotjourney.orange.com/en/catalogue/type/computer-vision)
+
+[Robotics, Automated Guided Vehicles, Private Mobile Radio Devices, Drones](https://iotjourney.orange.com/en/catalogue/type/robotics-automated-guided-vehicles-mobile-radio-devices-drones)
+
+[Partners](https://iotjourney.orange.com/en/partners)
+
+[IoT Partnership Program](https://iotjourney.orange.com/en/partners/become-partner)
+
+[News about partners](https://iotjourney.orange.com/en/partners/iot-news)
+
+[Our device partners](https://iotjourney.orange.com/en/partners/our-partners)
+
+[IoT Stories](https://iotjourney.orange.com/en/partners/iot-stories)
+
+[Events](https://iotjourney.orange.com/en/iot-events)
+
+[Support](https://iotjourney.orange.com/en/support)
+
+[FAQ](https://iotjourney.orange.com/en/support/faq)
+
+[IoT Resources](https://iotjourney.orange.com/en/support/iot-resources)
+
+- © Orange 2026
+- [Terms of use](https://iotjourney.orange.com/en/access-and-uses)
+- [Legal notices](https://iotjourney.orange.com/en/access-and-uses)
+- [Cookie policy](https://iotjourney.orange.com/en/cookie-policy)
+- [IoT Journey France](https://iotjourney.orange.com/fr-FR)
+- [Orange Developer](https://developer.orange.com/products/internet-of-things/)
+- [Live Objects](https://liveobjects.orange-business.com/#/liveobjects)
