@@ -18,6 +18,7 @@ if not API_KEY:
 
 URLS = [
     "https://catalog.data.gov/dataset?tags=iot",
+    "https://www.unb.ca/cic/datasets/",
 ]
 
 # ------------------------------------------------------------
@@ -52,6 +53,40 @@ def extract_rows(data: dict, url: str) -> list:
         print("No markdown content found in response.")
         return rows
         
+        return rows
+        
+    if 'unb.ca/cic/datasets/' in url and not url.endswith('/datasets/') and not url.endswith('index.html'):
+        # Sub-page extraction
+        # Extract title from # header
+        m = re.search(r'^#\s+(.+)$', markdown, re.MULTILINE)
+        title = m.group(1).strip() if m else ""
+        
+        # Extract description (first few paragraphs after the header)
+        desc = ""
+        paragraphs = re.findall(r'\n([^#\n\-].{20,})', markdown)
+        if paragraphs:
+            desc = " ".join(paragraphs[:3]).strip()
+            desc = re.sub(r'\[([^\]]*)\]\([^)]*\)', r'\1', desc)
+            desc = re.sub(r'\s+', ' ', desc).strip()[:1000]
+            
+        # Extract year if present
+        year_match = re.search(r'(\d{4})', title + desc)
+        updated_date = year_match.group(1) if year_match else ""
+
+        if title:
+            # Filter out navigation/menu titles from sub-pages
+            if any(word in title.lower() for word in ['search unb', 'datasets', 'about', 'contact', 'membership']):
+                return []
+
+            return [{
+                "dataset_name": title,
+                "source": "UNB CIC",
+                "description": desc,
+                "updated_date": updated_date,
+                "data_format": "PCAP/CSV"
+            }]
+        return []
+
     if 'kaggle.com/datasets/' in url:
         m = re.search(r'^#\s+(.+)$', markdown, re.MULTILINE)
         if m:
@@ -206,6 +241,36 @@ def extract_rows(data: dict, url: str) -> list:
                 "data_format": data_format
             })
         return rows
+
+    if 'unb.ca' in url:
+        # Pattern: - [Name](Link)
+        # Narrow down to links within the cic/datasets path to avoid navigation links
+        pattern = re.compile(r'[-*]\s+\[([^\]]+)\]\((https?://(?:www\.)?unb\.ca/+[Cc][Ii][Cc]/[Dd][Aa][Tt][Aa][Ss][Ee][Tt][Ss]/([^)]+))\)')
+        for m in pattern.finditer(markdown):
+            title = m.group(1).strip()
+            link_path = m.group(3).strip()
+            
+            # Filter out navigation links, anchors, and index pages
+            if '#' in link_path or 'index.html' in link_path.lower():
+                continue
+            
+            # Filter out generic links or links that look like menu items
+            if len(title) < 5 or any(word in title.lower() for word in ['skip to', 'contact us', 'about the cic', 'membership', 'webinars', 'global epic', 'workshop']):
+                continue
+
+            # Extract year if present in title
+            year_match = re.search(r'(\d{4})', title)
+            updated_date = year_match.group(1) if year_match else ""
+            
+            rows.append({
+                "dataset_name": title,
+                "source": "UNB CIC",
+                "description": "Cybersecurity dataset from Canadian Institute for Cybersecurity",
+                "updated_date": updated_date,
+                "data_format": "PCAP/CSV",
+                "sub_url": f"https://www.unb.ca/cic/datasets/{link_path.replace('//', '/')}"
+            })
+        return rows
     
     # Split text into dataset blocks (01., 02., etc.), ignoring trailing footer content
     blocks = re.findall(r'\n\d{2}\. (.*?)(?=\n\d{2}\. |\nShare|\nShare|\Z)', '\n' + markdown, re.DOTALL)
@@ -347,9 +412,9 @@ def store_to_db(rows: list) -> None:
     except Exception as e:
         print(f"Error storing to DB: {e}")
 
-
 def main() -> None:
     all_rows = []
+    sub_urls = []
     for url in URLS:
         try:
             raw = fetch_content(url)
@@ -357,10 +422,30 @@ def main() -> None:
             with open('last_response.json', 'w', encoding='utf-8') as f:
                 json.dump(raw, f, indent=2, ensure_ascii=False)
             extracted = extract_rows(raw, url)
-            print(f"Extracted {len(extracted)} rows from {url}")
-            all_rows.extend(extracted)
+            print(f"Extracted {len(extracted)} items from {url}")
+            
+            for item in extracted:
+                if item.get("sub_url"):
+                    sub_urls.append(item["sub_url"])
+                else:
+                    all_rows.append(item)
+                    
         except Exception as e:
             print(f"Error processing {url}: {e}")
+
+    # Deep scrape UNB sub-urls for detailed info
+    if sub_urls:
+        print(f"Deep scraping {len(sub_urls)} sub-pages from UNB...")
+        for sub_url in sub_urls:
+            try:
+                raw = fetch_content(sub_url)
+                extracted = extract_rows(raw, sub_url)
+                if extracted:
+                    all_rows.extend(extracted)
+                    print(f"Extracted details for: {extracted[0]['dataset_name']}")
+            except Exception as e:
+                print(f"Error deep scraping {sub_url}: {e}")
+
     if all_rows:
         cleaned = clean_rows(all_rows)
         print(f"After deduplication: {len(cleaned)} unique rows")
