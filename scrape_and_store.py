@@ -23,6 +23,7 @@ URLS = [
     "https://www.tp-link.com/in/support/download/",
     "https://downloads.openwrt.org/releases/",
     "https://www.asus.com/support/Download-Center/"
+    "https://www.dlink.com/en/support"
 ]
 
 # ------------------------------------------------------------
